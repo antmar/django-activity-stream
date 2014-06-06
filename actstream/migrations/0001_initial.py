@@ -9,7 +9,6 @@ from actstream.compat import (
     user_model_table
 )
 
-
 class Migration(SchemaMigration):
 
     def forwards(self, orm):
